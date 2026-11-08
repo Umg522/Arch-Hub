@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umg522.github.io/Arch-Hub/sitemap.xml
